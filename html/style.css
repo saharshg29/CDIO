@@ -1,0 +1,40 @@
+h1 {
+    color: white;
+    font-weight: bolder;
+}
+
+.bg-primary {
+    color: white;
+}
+
+.d-block {
+    height: 100vh;
+}
+
+#quote {
+    padding-top: 10px;
+    font-weight: bolder;
+}
+
+.card-header {
+    background-color: blue;
+    color: cornsilk;
+}
+
+.blockquote p {
+    font-size: 32px;
+    font-family: 'Style Script', cursive
+}
+
+#breaker {
+    padding: 20px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.bg-auto {
+    background-color: gainsboro;
+}
+

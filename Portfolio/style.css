@@ -1,0 +1,36 @@
+.container-fluid {
+   background-color: crimson;
+}
+
+#left {
+    border-width: 3px;
+    border-color: black;
+   background-color: crimson;
+}
+
+#right {
+    border-width: 3px;
+    border-color: black;
+   background-color: crimson;
+}
+
+#footer {
+   background-color: crimson;
+}
+
+.card-body {
+    background-image: linear-gradient(red ,yellow 45% );
+    color: darkblue;
+    font-weight: bolder;
+    font-size: 3vh;
+}
+
+li {
+    line-height: 125%;
+}
+
+span {
+    font-weight: bolder;
+    font-size: 32px;
+    padding-left: 10%;
+}
